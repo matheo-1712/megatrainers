@@ -3,7 +3,7 @@
   "battle": {
     "format": "doubles",
     "level": 75,
-    "difficulty": 4,
+    "difficulty": 5,
     "gimmicks": [
       "mega"
     ]
@@ -24,7 +24,7 @@
   ],
   "team": [
     "Aggron @ Aggronite  \nAbility: Rock Head  \nEVs: 252 HP / 252 Atk / 4 SpD  \nRelaxed Nature  \n- Stealth Rock  \n- Iron Defense  \n- Heavy Slam  \n- Head Smash",
-    "Corviknight @ Light Clay  \nAbility: Pressure  \n- Reflect  \n- Light Screen  \n- Tailwind  \n- U-turn",
+    "Corviknight @ Light Clay  \nAbility: Pressure  \nEVs: 248 HP / 252 Def / 8 SpD  \nImpish Nature  \n- Reflect  \n- Light Screen  \n- Tailwind  \n- U-turn",
     "Hippowdon @ Leftovers  \nAbility: Sand Stream  \nEVs: 252 HP / 4 Atk / 252 Def  \nImpish Nature  \n- Body Slam  \n- Curse  \n- Yawn  \n- Slack Off",
     "Excadrill @ Choice Band  \nAbility: Sand Rush  \nEVs: 4 HP / 252 Atk / 252 Spe  \nAdamant Nature  \n- Drill Run  \n- X-Scissor  \n- Iron Head  \n- Rapid Spin"
   ]

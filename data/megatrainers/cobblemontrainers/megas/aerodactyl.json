@@ -2,7 +2,7 @@
   "name": "trainer.megatrainers.megas.aerodactyl.name",
   "battle": {
     "level": 75,
-    "difficulty": 4,
+    "difficulty": 5,
     "gimmicks": [
       "mega"
     ]

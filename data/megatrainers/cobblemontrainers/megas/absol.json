@@ -3,7 +3,7 @@
   "battle": {
     "format": "doubles",
     "level": 75,
-    "difficulty": 4,
+    "difficulty": 5,
     "gimmicks": [
       "mega"
     ]
