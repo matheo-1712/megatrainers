@@ -21,5 +21,20 @@
       "firstWinOnly": true
     }
   ],
-  "team": []
+  "requires": {
+    "party": [
+      {
+        "pokemon": "absol",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "message": "trainer.megatrainers.locked"
+  },
+  "team": [
+    "Tyranitar @ Leftovers  \nAbility: Unnerve  \nEVs: 252 HP / 252 Atk / 4 SpD  \nAdamant Nature  \n- Stealth Rock  \n- Knock Off  \n- Stone Edge  \n- Pursuit",
+    "Absol @ Absolite  \nAbility: Super Luck  \nEVs: 252 Atk / 4 SpD / 252 Spe  \nJolly Nature  \n- Knock Off  \n- Pursuit  \n- Close Combat  \n- Swords Dance",
+    "Meowscarada @ Life Orb  \nAbility: Protean  \nEVs: 4 HP / 252 Atk / 252 Spe  \nJolly Nature  \n- Knock Off  \n- Triple Axel  \n- U-turn  \n- Flower Trick",
+    "Greninja @ Life Orb  \nAbility: Protean  \nEVs: 4 HP / 252 SpA / 252 Spe  \nTimid Nature  \n- Dark Pulse  \n- U-turn  \n- Sludge Wave  \n- Hydro Pump"
+  ]
 }
