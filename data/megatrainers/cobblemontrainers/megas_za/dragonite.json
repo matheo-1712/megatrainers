@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.dragonite.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.dragonite.greeting",
+    "start": "trainer.megatrainers.megas_bonus.dragonite.start",
+    "decline": "trainer.megatrainers.megas_bonus.dragonite.decline",
+    "win": "trainer.megatrainers.megas_bonus.dragonite.win",
+    "lose": "trainer.megatrainers.megas_bonus.dragonite.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:dragoninite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.aggron.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.aggron.greeting",
+    "start": "trainer.megatrainers.megas.aggron.start",
+    "decline": "trainer.megatrainers.megas.aggron.decline",
+    "win": "trainer.megatrainers.megas.aggron.win",
+    "lose": "trainer.megatrainers.megas.aggron.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:aggronite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.staraptor.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.staraptor.greeting",
+    "start": "trainer.megatrainers.megas_bonus.staraptor.start",
+    "decline": "trainer.megatrainers.megas_bonus.staraptor.decline",
+    "win": "trainer.megatrainers.megas_bonus.staraptor.win",
+    "lose": "trainer.megatrainers.megas_bonus.staraptor.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:staraptite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

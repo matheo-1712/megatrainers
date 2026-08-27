@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.heracross.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.heracross.greeting",
+    "start": "trainer.megatrainers.megas.heracross.start",
+    "decline": "trainer.megatrainers.megas.heracross.decline",
+    "win": "trainer.megatrainers.megas.heracross.win",
+    "lose": "trainer.megatrainers.megas.heracross.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:heracronite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

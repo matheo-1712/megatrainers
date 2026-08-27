@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.glalie.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.glalie.greeting",
+    "start": "trainer.megatrainers.megas.glalie.start",
+    "decline": "trainer.megatrainers.megas.glalie.decline",
+    "win": "trainer.megatrainers.megas.glalie.win",
+    "lose": "trainer.megatrainers.megas.glalie.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:glalitite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

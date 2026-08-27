@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.blaziken.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.blaziken.greeting",
+    "start": "trainer.megatrainers.megas.blaziken.start",
+    "decline": "trainer.megatrainers.megas.blaziken.decline",
+    "win": "trainer.megatrainers.megas.blaziken.win",
+    "lose": "trainer.megatrainers.megas.blaziken.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:blazikenite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

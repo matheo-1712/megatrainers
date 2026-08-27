@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.gyarados.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.gyarados.greeting",
+    "start": "trainer.megatrainers.megas.gyarados.start",
+    "decline": "trainer.megatrainers.megas.gyarados.decline",
+    "win": "trainer.megatrainers.megas.gyarados.win",
+    "lose": "trainer.megatrainers.megas.gyarados.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:gyaradosite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.eelektross.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.eelektross.greeting",
+    "start": "trainer.megatrainers.megas_bonus.eelektross.start",
+    "decline": "trainer.megatrainers.megas_bonus.eelektross.decline",
+    "win": "trainer.megatrainers.megas_bonus.eelektross.win",
+    "lose": "trainer.megatrainers.megas_bonus.eelektross.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:eelektrossite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.pyroar.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.pyroar.greeting",
+    "start": "trainer.megatrainers.megas_bonus.pyroar.start",
+    "decline": "trainer.megatrainers.megas_bonus.pyroar.decline",
+    "win": "trainer.megatrainers.megas_bonus.pyroar.win",
+    "lose": "trainer.megatrainers.megas_bonus.pyroar.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:pyroarite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

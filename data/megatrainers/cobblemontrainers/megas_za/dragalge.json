@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.dragalge.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.dragalge.greeting",
+    "start": "trainer.megatrainers.megas_bonus.dragalge.start",
+    "decline": "trainer.megatrainers.megas_bonus.dragalge.decline",
+    "win": "trainer.megatrainers.megas_bonus.dragalge.win",
+    "lose": "trainer.megatrainers.megas_bonus.dragalge.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:dragalgite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

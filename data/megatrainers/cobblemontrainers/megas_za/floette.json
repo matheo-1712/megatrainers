@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.floette.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.floette.greeting",
+    "start": "trainer.megatrainers.megas_bonus.floette.start",
+    "decline": "trainer.megatrainers.megas_bonus.floette.decline",
+    "win": "trainer.megatrainers.megas_bonus.floette.win",
+    "lose": "trainer.megatrainers.megas_bonus.floette.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:floettite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

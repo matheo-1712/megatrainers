@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.starmie.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.starmie.greeting",
+    "start": "trainer.megatrainers.megas_bonus.starmie.start",
+    "decline": "trainer.megatrainers.megas_bonus.starmie.decline",
+    "win": "trainer.megatrainers.megas_bonus.starmie.win",
+    "lose": "trainer.megatrainers.megas_bonus.starmie.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:starminite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

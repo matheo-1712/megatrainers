@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.emboar.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.emboar.greeting",
+    "start": "trainer.megatrainers.megas_bonus.emboar.start",
+    "decline": "trainer.megatrainers.megas_bonus.emboar.decline",
+    "win": "trainer.megatrainers.megas_bonus.emboar.win",
+    "lose": "trainer.megatrainers.megas_bonus.emboar.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:emboarite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

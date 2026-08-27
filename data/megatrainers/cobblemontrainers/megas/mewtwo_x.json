@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.mewtwo_x.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.mewtwo_x.greeting",
+    "start": "trainer.megatrainers.megas.mewtwo_x.start",
+    "decline": "trainer.megatrainers.megas.mewtwo_x.decline",
+    "win": "trainer.megatrainers.megas.mewtwo_x.win",
+    "lose": "trainer.megatrainers.megas.mewtwo_x.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:mewtwonite_x",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

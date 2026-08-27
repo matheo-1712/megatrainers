@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.gallade.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.gallade.greeting",
+    "start": "trainer.megatrainers.megas.gallade.start",
+    "decline": "trainer.megatrainers.megas.gallade.decline",
+    "win": "trainer.megatrainers.megas.gallade.win",
+    "lose": "trainer.megatrainers.megas.gallade.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:galladite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

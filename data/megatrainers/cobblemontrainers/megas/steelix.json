@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.steelix.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.steelix.greeting",
+    "start": "trainer.megatrainers.megas.steelix.start",
+    "decline": "trainer.megatrainers.megas.steelix.decline",
+    "win": "trainer.megatrainers.megas.steelix.win",
+    "lose": "trainer.megatrainers.megas.steelix.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:steelixite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

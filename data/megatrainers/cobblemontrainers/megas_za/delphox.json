@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.delphox.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.delphox.greeting",
+    "start": "trainer.megatrainers.megas_bonus.delphox.start",
+    "decline": "trainer.megatrainers.megas_bonus.delphox.decline",
+    "win": "trainer.megatrainers.megas_bonus.delphox.win",
+    "lose": "trainer.megatrainers.megas_bonus.delphox.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:delphoxite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

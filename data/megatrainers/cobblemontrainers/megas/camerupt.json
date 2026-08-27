@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.camerupt.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.camerupt.greeting",
+    "start": "trainer.megatrainers.megas.camerupt.start",
+    "decline": "trainer.megatrainers.megas.camerupt.decline",
+    "win": "trainer.megatrainers.megas.camerupt.win",
+    "lose": "trainer.megatrainers.megas.camerupt.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:cameruptite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

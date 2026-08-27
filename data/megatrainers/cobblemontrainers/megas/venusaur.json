@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.venusaur.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.venusaur.greeting",
+    "start": "trainer.megatrainers.megas.venusaur.start",
+    "decline": "trainer.megatrainers.megas.venusaur.decline",
+    "win": "trainer.megatrainers.megas.venusaur.win",
+    "lose": "trainer.megatrainers.megas.venusaur.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:venusaurite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

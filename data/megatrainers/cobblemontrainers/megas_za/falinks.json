@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.falinks.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.falinks.greeting",
+    "start": "trainer.megatrainers.megas_bonus.falinks.start",
+    "decline": "trainer.megatrainers.megas_bonus.falinks.decline",
+    "win": "trainer.megatrainers.megas_bonus.falinks.win",
+    "lose": "trainer.megatrainers.megas_bonus.falinks.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:falinksite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

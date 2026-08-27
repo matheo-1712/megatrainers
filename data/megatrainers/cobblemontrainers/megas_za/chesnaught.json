@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.chesnaught.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.chesnaught.greeting",
+    "start": "trainer.megatrainers.megas_bonus.chesnaught.start",
+    "decline": "trainer.megatrainers.megas_bonus.chesnaught.decline",
+    "win": "trainer.megatrainers.megas_bonus.chesnaught.win",
+    "lose": "trainer.megatrainers.megas_bonus.chesnaught.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:chesnaughtite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

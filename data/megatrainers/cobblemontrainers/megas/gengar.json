@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.gengar.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.gengar.greeting",
+    "start": "trainer.megatrainers.megas.gengar.start",
+    "decline": "trainer.megatrainers.megas.gengar.decline",
+    "win": "trainer.megatrainers.megas.gengar.win",
+    "lose": "trainer.megatrainers.megas.gengar.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:gengarite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

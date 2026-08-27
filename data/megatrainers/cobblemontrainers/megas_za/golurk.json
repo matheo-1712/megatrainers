@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.golurk.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.golurk.greeting",
+    "start": "trainer.megatrainers.megas_bonus.golurk.start",
+    "decline": "trainer.megatrainers.megas_bonus.golurk.decline",
+    "win": "trainer.megatrainers.megas_bonus.golurk.win",
+    "lose": "trainer.megatrainers.megas_bonus.golurk.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:golurkite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

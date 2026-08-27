@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.houndoom.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.houndoom.greeting",
+    "start": "trainer.megatrainers.megas.houndoom.start",
+    "decline": "trainer.megatrainers.megas.houndoom.decline",
+    "win": "trainer.megatrainers.megas.houndoom.win",
+    "lose": "trainer.megatrainers.megas.houndoom.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:houndoominite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

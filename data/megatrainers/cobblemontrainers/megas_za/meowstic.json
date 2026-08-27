@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.meowstic.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.meowstic.greeting",
+    "start": "trainer.megatrainers.megas_bonus.meowstic.start",
+    "decline": "trainer.megatrainers.megas_bonus.meowstic.decline",
+    "win": "trainer.megatrainers.megas_bonus.meowstic.win",
+    "lose": "trainer.megatrainers.megas_bonus.meowstic.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:meowsticite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.scrafty.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.scrafty.greeting",
+    "start": "trainer.megatrainers.megas_bonus.scrafty.start",
+    "decline": "trainer.megatrainers.megas_bonus.scrafty.decline",
+    "win": "trainer.megatrainers.megas_bonus.scrafty.win",
+    "lose": "trainer.megatrainers.megas_bonus.scrafty.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:scraftinite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

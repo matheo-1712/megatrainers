@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.mawile.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.mawile.greeting",
+    "start": "trainer.megatrainers.megas.mawile.start",
+    "decline": "trainer.megatrainers.megas.mawile.decline",
+    "win": "trainer.megatrainers.megas.mawile.win",
+    "lose": "trainer.megatrainers.megas.mawile.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:mawilite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

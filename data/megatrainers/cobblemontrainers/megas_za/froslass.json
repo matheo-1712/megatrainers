@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.froslass.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.froslass.greeting",
+    "start": "trainer.megatrainers.megas_bonus.froslass.start",
+    "decline": "trainer.megatrainers.megas_bonus.froslass.decline",
+    "win": "trainer.megatrainers.megas_bonus.froslass.win",
+    "lose": "trainer.megatrainers.megas_bonus.froslass.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:froslassite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

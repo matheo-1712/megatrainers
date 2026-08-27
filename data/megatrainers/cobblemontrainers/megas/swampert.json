@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.swampert.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.swampert.greeting",
+    "start": "trainer.megatrainers.megas.swampert.start",
+    "decline": "trainer.megatrainers.megas.swampert.decline",
+    "win": "trainer.megatrainers.megas.swampert.win",
+    "lose": "trainer.megatrainers.megas.swampert.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:swampertite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

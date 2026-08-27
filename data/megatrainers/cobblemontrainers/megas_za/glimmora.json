@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.glimmora.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.glimmora.greeting",
+    "start": "trainer.megatrainers.megas_bonus.glimmora.start",
+    "decline": "trainer.megatrainers.megas_bonus.glimmora.decline",
+    "win": "trainer.megatrainers.megas_bonus.glimmora.win",
+    "lose": "trainer.megatrainers.megas_bonus.glimmora.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:glimmoranite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

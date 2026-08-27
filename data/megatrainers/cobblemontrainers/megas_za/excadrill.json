@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.excadrill.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.excadrill.greeting",
+    "start": "trainer.megatrainers.megas_bonus.excadrill.start",
+    "decline": "trainer.megatrainers.megas_bonus.excadrill.decline",
+    "win": "trainer.megatrainers.megas_bonus.excadrill.win",
+    "lose": "trainer.megatrainers.megas_bonus.excadrill.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:excadrite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

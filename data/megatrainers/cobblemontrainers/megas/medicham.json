@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.medicham.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.medicham.greeting",
+    "start": "trainer.megatrainers.megas.medicham.start",
+    "decline": "trainer.megatrainers.megas.medicham.decline",
+    "win": "trainer.megatrainers.megas.medicham.win",
+    "lose": "trainer.megatrainers.megas.medicham.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:medichamite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.malamar.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.malamar.greeting",
+    "start": "trainer.megatrainers.megas_bonus.malamar.start",
+    "decline": "trainer.megatrainers.megas_bonus.malamar.decline",
+    "win": "trainer.megatrainers.megas_bonus.malamar.win",
+    "lose": "trainer.megatrainers.megas_bonus.malamar.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:malamarite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.lopunny.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.lopunny.greeting",
+    "start": "trainer.megatrainers.megas.lopunny.start",
+    "decline": "trainer.megatrainers.megas.lopunny.decline",
+    "win": "trainer.megatrainers.megas.lopunny.win",
+    "lose": "trainer.megatrainers.megas.lopunny.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:lopunnite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.altaria.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.altaria.greeting",
+    "start": "trainer.megatrainers.megas.altaria.start",
+    "decline": "trainer.megatrainers.megas.altaria.decline",
+    "win": "trainer.megatrainers.megas.altaria.win",
+    "lose": "trainer.megatrainers.megas.altaria.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:altarianite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

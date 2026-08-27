@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.scovillain.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.scovillain.greeting",
+    "start": "trainer.megatrainers.megas_bonus.scovillain.start",
+    "decline": "trainer.megatrainers.megas_bonus.scovillain.decline",
+    "win": "trainer.megatrainers.megas_bonus.scovillain.win",
+    "lose": "trainer.megatrainers.megas_bonus.scovillain.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:scovillainite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

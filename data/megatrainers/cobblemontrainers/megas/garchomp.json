@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.garchomp.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.garchomp.greeting",
+    "start": "trainer.megatrainers.megas.garchomp.start",
+    "decline": "trainer.megatrainers.megas.garchomp.decline",
+    "win": "trainer.megatrainers.megas.garchomp.win",
+    "lose": "trainer.megatrainers.megas.garchomp.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:garchompite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

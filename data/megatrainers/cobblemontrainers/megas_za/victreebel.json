@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.victreebel.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.victreebel.greeting",
+    "start": "trainer.megatrainers.megas_bonus.victreebel.start",
+    "decline": "trainer.megatrainers.megas_bonus.victreebel.decline",
+    "win": "trainer.megatrainers.megas_bonus.victreebel.win",
+    "lose": "trainer.megatrainers.megas_bonus.victreebel.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:victreebelite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

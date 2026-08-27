@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.clefable.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.clefable.greeting",
+    "start": "trainer.megatrainers.megas_bonus.clefable.start",
+    "decline": "trainer.megatrainers.megas_bonus.clefable.decline",
+    "win": "trainer.megatrainers.megas_bonus.clefable.win",
+    "lose": "trainer.megatrainers.megas_bonus.clefable.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:clefablite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

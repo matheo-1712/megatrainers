@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.audino.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.audino.greeting",
+    "start": "trainer.megatrainers.megas.audino.start",
+    "decline": "trainer.megatrainers.megas.audino.decline",
+    "win": "trainer.megatrainers.megas.audino.win",
+    "lose": "trainer.megatrainers.megas.audino.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:audinite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

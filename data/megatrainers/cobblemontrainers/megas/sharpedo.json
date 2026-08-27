@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.sharpedo.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.sharpedo.greeting",
+    "start": "trainer.megatrainers.megas.sharpedo.start",
+    "decline": "trainer.megatrainers.megas.sharpedo.decline",
+    "win": "trainer.megatrainers.megas.sharpedo.win",
+    "lose": "trainer.megatrainers.megas.sharpedo.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:sharpedonite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

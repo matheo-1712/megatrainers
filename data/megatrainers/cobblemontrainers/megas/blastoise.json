@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.blastoise.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.blastoise.greeting",
+    "start": "trainer.megatrainers.megas.blastoise.start",
+    "decline": "trainer.megatrainers.megas.blastoise.decline",
+    "win": "trainer.megatrainers.megas.blastoise.win",
+    "lose": "trainer.megatrainers.megas.blastoise.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:blastoisinite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

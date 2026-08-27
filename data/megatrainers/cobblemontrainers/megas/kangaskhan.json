@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.kangaskhan.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.kangaskhan.greeting",
+    "start": "trainer.megatrainers.megas.kangaskhan.start",
+    "decline": "trainer.megatrainers.megas.kangaskhan.decline",
+    "win": "trainer.megatrainers.megas.kangaskhan.win",
+    "lose": "trainer.megatrainers.megas.kangaskhan.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:kangaskhanite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.skarmory.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.skarmory.greeting",
+    "start": "trainer.megatrainers.megas_bonus.skarmory.start",
+    "decline": "trainer.megatrainers.megas_bonus.skarmory.decline",
+    "win": "trainer.megatrainers.megas_bonus.skarmory.win",
+    "lose": "trainer.megatrainers.megas_bonus.skarmory.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:skarmorite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.tyranitar.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.tyranitar.greeting",
+    "start": "trainer.megatrainers.megas.tyranitar.start",
+    "decline": "trainer.megatrainers.megas.tyranitar.decline",
+    "win": "trainer.megatrainers.megas.tyranitar.win",
+    "lose": "trainer.megatrainers.megas.tyranitar.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:tyranitarite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

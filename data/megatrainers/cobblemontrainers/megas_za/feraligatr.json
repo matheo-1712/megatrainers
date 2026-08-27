@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.feraligatr.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.feraligatr.greeting",
+    "start": "trainer.megatrainers.megas_bonus.feraligatr.start",
+    "decline": "trainer.megatrainers.megas_bonus.feraligatr.decline",
+    "win": "trainer.megatrainers.megas_bonus.feraligatr.win",
+    "lose": "trainer.megatrainers.megas_bonus.feraligatr.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:feraligite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

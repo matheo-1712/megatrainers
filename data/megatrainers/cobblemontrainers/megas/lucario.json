@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.lucario.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.lucario.greeting",
+    "start": "trainer.megatrainers.megas.lucario.start",
+    "decline": "trainer.megatrainers.megas.lucario.decline",
+    "win": "trainer.megatrainers.megas.lucario.win",
+    "lose": "trainer.megatrainers.megas.lucario.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:lucarionite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

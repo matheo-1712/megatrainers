@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.meganium.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.meganium.greeting",
+    "start": "trainer.megatrainers.megas_bonus.meganium.start",
+    "decline": "trainer.megatrainers.megas_bonus.meganium.decline",
+    "win": "trainer.megatrainers.megas_bonus.meganium.win",
+    "lose": "trainer.megatrainers.megas_bonus.meganium.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:meganiumite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

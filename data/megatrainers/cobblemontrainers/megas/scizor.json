@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.scizor.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.scizor.greeting",
+    "start": "trainer.megatrainers.megas.scizor.start",
+    "decline": "trainer.megatrainers.megas.scizor.decline",
+    "win": "trainer.megatrainers.megas.scizor.win",
+    "lose": "trainer.megatrainers.megas.scizor.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:scizorite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

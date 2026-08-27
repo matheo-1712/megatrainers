@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.salamence.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.salamence.greeting",
+    "start": "trainer.megatrainers.megas.salamence.start",
+    "decline": "trainer.megatrainers.megas.salamence.decline",
+    "win": "trainer.megatrainers.megas.salamence.win",
+    "lose": "trainer.megatrainers.megas.salamence.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:salamencite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

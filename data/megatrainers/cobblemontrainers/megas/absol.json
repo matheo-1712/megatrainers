@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.absol.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.absol.greeting",
+    "start": "trainer.megatrainers.megas.absol.start",
+    "decline": "trainer.megatrainers.megas.absol.decline",
+    "win": "trainer.megatrainers.megas.absol.win",
+    "lose": "trainer.megatrainers.megas.absol.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:absolite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

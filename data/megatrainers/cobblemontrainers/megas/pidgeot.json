@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.pidgeot.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.pidgeot.greeting",
+    "start": "trainer.megatrainers.megas.pidgeot.start",
+    "decline": "trainer.megatrainers.megas.pidgeot.decline",
+    "win": "trainer.megatrainers.megas.pidgeot.win",
+    "lose": "trainer.megatrainers.megas.pidgeot.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:pidgeotite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

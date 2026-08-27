@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.ampharos.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.ampharos.greeting",
+    "start": "trainer.megatrainers.megas.ampharos.start",
+    "decline": "trainer.megatrainers.megas.ampharos.decline",
+    "win": "trainer.megatrainers.megas.ampharos.win",
+    "lose": "trainer.megatrainers.megas.ampharos.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:ampharosite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

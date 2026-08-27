@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.raichu_y.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.raichu_y.greeting",
+    "start": "trainer.megatrainers.megas_bonus.raichu_y.start",
+    "decline": "trainer.megatrainers.megas_bonus.raichu_y.decline",
+    "win": "trainer.megatrainers.megas_bonus.raichu_y.win",
+    "lose": "trainer.megatrainers.megas_bonus.raichu_y.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:raichunite_y",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

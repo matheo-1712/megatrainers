@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.aerodactyl.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.aerodactyl.greeting",
+    "start": "trainer.megatrainers.megas.aerodactyl.start",
+    "decline": "trainer.megatrainers.megas.aerodactyl.decline",
+    "win": "trainer.megatrainers.megas.aerodactyl.win",
+    "lose": "trainer.megatrainers.megas.aerodactyl.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:aerodactylite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

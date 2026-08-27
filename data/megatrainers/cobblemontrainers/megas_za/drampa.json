@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.drampa.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.drampa.greeting",
+    "start": "trainer.megatrainers.megas_bonus.drampa.start",
+    "decline": "trainer.megatrainers.megas_bonus.drampa.decline",
+    "win": "trainer.megatrainers.megas_bonus.drampa.win",
+    "lose": "trainer.megatrainers.megas_bonus.drampa.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:drampanite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.scolipede.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.scolipede.greeting",
+    "start": "trainer.megatrainers.megas_bonus.scolipede.start",
+    "decline": "trainer.megatrainers.megas_bonus.scolipede.decline",
+    "win": "trainer.megatrainers.megas_bonus.scolipede.win",
+    "lose": "trainer.megatrainers.megas_bonus.scolipede.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:scolipite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

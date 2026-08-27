@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.sceptile.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.sceptile.greeting",
+    "start": "trainer.megatrainers.megas.sceptile.start",
+    "decline": "trainer.megatrainers.megas.sceptile.decline",
+    "win": "trainer.megatrainers.megas.sceptile.win",
+    "lose": "trainer.megatrainers.megas.sceptile.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:sceptilite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

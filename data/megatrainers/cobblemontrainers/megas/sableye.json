@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.sableye.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.sableye.greeting",
+    "start": "trainer.megatrainers.megas.sableye.start",
+    "decline": "trainer.megatrainers.megas.sableye.decline",
+    "win": "trainer.megatrainers.megas.sableye.win",
+    "lose": "trainer.megatrainers.megas.sableye.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:sablenite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

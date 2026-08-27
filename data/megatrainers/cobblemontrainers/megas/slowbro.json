@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.slowbro.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.slowbro.greeting",
+    "start": "trainer.megatrainers.megas.slowbro.start",
+    "decline": "trainer.megatrainers.megas.slowbro.decline",
+    "win": "trainer.megatrainers.megas.slowbro.win",
+    "lose": "trainer.megatrainers.megas.slowbro.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:slowbronite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

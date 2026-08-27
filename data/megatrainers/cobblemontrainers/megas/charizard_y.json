@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.charizard_y.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.charizard_y.greeting",
+    "start": "trainer.megatrainers.megas.charizard_y.start",
+    "decline": "trainer.megatrainers.megas.charizard_y.decline",
+    "win": "trainer.megatrainers.megas.charizard_y.win",
+    "lose": "trainer.megatrainers.megas.charizard_y.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:charizardite_y",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

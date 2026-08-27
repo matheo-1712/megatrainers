@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.diancie.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.diancie.greeting",
+    "start": "trainer.megatrainers.megas.diancie.start",
+    "decline": "trainer.megatrainers.megas.diancie.decline",
+    "win": "trainer.megatrainers.megas.diancie.win",
+    "lose": "trainer.megatrainers.megas.diancie.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:diancite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

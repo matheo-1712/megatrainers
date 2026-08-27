@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.banette.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.banette.greeting",
+    "start": "trainer.megatrainers.megas.banette.start",
+    "decline": "trainer.megatrainers.megas.banette.decline",
+    "win": "trainer.megatrainers.megas.banette.win",
+    "lose": "trainer.megatrainers.megas.banette.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:banettite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

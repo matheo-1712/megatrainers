@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.latios.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.latios.greeting",
+    "start": "trainer.megatrainers.megas.latios.start",
+    "decline": "trainer.megatrainers.megas.latios.decline",
+    "win": "trainer.megatrainers.megas.latios.win",
+    "lose": "trainer.megatrainers.megas.latios.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:latiosite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

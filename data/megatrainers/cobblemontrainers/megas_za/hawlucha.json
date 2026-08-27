@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.hawlucha.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.hawlucha.greeting",
+    "start": "trainer.megatrainers.megas_bonus.hawlucha.start",
+    "decline": "trainer.megatrainers.megas_bonus.hawlucha.decline",
+    "win": "trainer.megatrainers.megas_bonus.hawlucha.win",
+    "lose": "trainer.megatrainers.megas_bonus.hawlucha.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:hawluchanite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

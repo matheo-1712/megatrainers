@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.abomasnow.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.abomasnow.greeting",
+    "start": "trainer.megatrainers.megas.abomasnow.start",
+    "decline": "trainer.megatrainers.megas.abomasnow.decline",
+    "win": "trainer.megatrainers.megas.abomasnow.win",
+    "lose": "trainer.megatrainers.megas.abomasnow.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:abomasite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

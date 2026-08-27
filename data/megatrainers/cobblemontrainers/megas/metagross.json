@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.metagross.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.metagross.greeting",
+    "start": "trainer.megatrainers.megas.metagross.start",
+    "decline": "trainer.megatrainers.megas.metagross.decline",
+    "win": "trainer.megatrainers.megas.metagross.win",
+    "lose": "trainer.megatrainers.megas.metagross.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:metagrossite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

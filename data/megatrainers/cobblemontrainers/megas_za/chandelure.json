@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas_bonus.chandelure.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas_bonus.chandelure.greeting",
+    "start": "trainer.megatrainers.megas_bonus.chandelure.start",
+    "decline": "trainer.megatrainers.megas_bonus.chandelure.decline",
+    "win": "trainer.megatrainers.megas_bonus.chandelure.win",
+    "lose": "trainer.megatrainers.megas_bonus.chandelure.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:chandelurite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

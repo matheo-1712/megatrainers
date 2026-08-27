@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.pinsir.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.pinsir.greeting",
+    "start": "trainer.megatrainers.megas.pinsir.start",
+    "decline": "trainer.megatrainers.megas.pinsir.decline",
+    "win": "trainer.megatrainers.megas.pinsir.win",
+    "lose": "trainer.megatrainers.megas.pinsir.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:pinsirite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

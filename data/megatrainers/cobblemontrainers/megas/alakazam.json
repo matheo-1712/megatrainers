@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.alakazam.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.alakazam.greeting",
+    "start": "trainer.megatrainers.megas.alakazam.start",
+    "decline": "trainer.megatrainers.megas.alakazam.decline",
+    "win": "trainer.megatrainers.megas.alakazam.win",
+    "lose": "trainer.megatrainers.megas.alakazam.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:alakazite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

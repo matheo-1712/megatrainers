@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.beedrill.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.beedrill.greeting",
+    "start": "trainer.megatrainers.megas.beedrill.start",
+    "decline": "trainer.megatrainers.megas.beedrill.decline",
+    "win": "trainer.megatrainers.megas.beedrill.win",
+    "lose": "trainer.megatrainers.megas.beedrill.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:beedrillite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

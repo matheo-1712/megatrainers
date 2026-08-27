@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.manectric.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.manectric.greeting",
+    "start": "trainer.megatrainers.megas.manectric.start",
+    "decline": "trainer.megatrainers.megas.manectric.decline",
+    "win": "trainer.megatrainers.megas.manectric.win",
+    "lose": "trainer.megatrainers.megas.manectric.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:manectite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}

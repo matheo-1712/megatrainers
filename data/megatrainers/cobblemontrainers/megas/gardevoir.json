@@ -1,0 +1,25 @@
+{
+  "name": "trainer.megatrainers.megas.gardevoir.name",
+  "battle": {
+    "level": 75,
+    "difficulty": 4,
+    "gimmicks": [
+      "mega"
+    ]
+  },
+  "messages": {
+    "greeting": "trainer.megatrainers.megas.gardevoir.greeting",
+    "start": "trainer.megatrainers.megas.gardevoir.start",
+    "decline": "trainer.megatrainers.megas.gardevoir.decline",
+    "win": "trainer.megatrainers.megas.gardevoir.win",
+    "lose": "trainer.megatrainers.megas.gardevoir.lose"
+  },
+  "rewards": [
+    {
+      "item": "mega_showdown:gardevoirite",
+      "count": 1,
+      "firstWinOnly": true
+    }
+  ],
+  "team": []
+}
