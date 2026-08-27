@@ -1,8 +1,9 @@
 {
   "name": "trainer.megatrainers.megas.abomasnow.name",
   "battle": {
+    "format": "doubles",
     "level": 75,
-    "difficulty": 4,
+    "difficulty": 5,
     "gimmicks": [
       "mega"
     ]
@@ -21,5 +22,20 @@
       "firstWinOnly": true
     }
   ],
-  "team": []
+  "requires": {
+    "party": [
+      {
+        "pokemon": "abomasnow",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "message": "trainer.megatrainers.locked"
+  },
+  "team": [
+    "Mamoswine @ Focus Sash  \nAbility: Oblivious  \nEVs: 4 HP / 252 Atk / 252 Spe  \nJolly Nature  \n- Stealth Rock  \n- Icicle Crash  \n- Rock Slide  \n- Knock Off",
+    "Ninetales @ Light Clay  \nAbility: Snow Warning  \nAspects: alolan\nEVs: 252 HP / 4 SpA / 252 Spe  \nTimid Nature  \nIVs: 0 Atk  \n- Aurora Veil  \n- Reflect  \n- Encore  \n- Weather Ball",
+    "Abomasnow @ Abomasite  \nAbility: Snow Warning  \nEVs: 252 Atk / 8 SpD / 248 Spe  \nAdamant Nature  \n- Swords Dance  \n- Wood Hammer  \n- Ice Shard  \n- Earthquake",
+    "Cloyster @ White Herb  \nAbility: Skill Link  \nEVs: 4 HP / 252 Atk / 252 Spe  \nAdamant Nature  \n- Shell Smash  \n- Icicle Spear  \n- Rock Blast  \n- Rapid Spin"
+  ]
 }
