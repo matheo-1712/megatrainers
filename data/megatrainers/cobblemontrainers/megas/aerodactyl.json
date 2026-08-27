@@ -14,6 +14,16 @@
     "win": "trainer.megatrainers.megas.aerodactyl.win",
     "lose": "trainer.megatrainers.megas.aerodactyl.lose"
   },
+  "requires": {
+    "party": [
+      {
+        "pokemon": "aerodactyl",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "message": "trainer.megatrainers.locked"
+  },
   "rewards": [
     {
       "item": "mega_showdown:aerodactylite",

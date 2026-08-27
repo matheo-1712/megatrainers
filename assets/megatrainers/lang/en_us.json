@@ -486,5 +486,6 @@
   "trainer.megatrainers.megas_bonus.victreebel.win": "Perfect. Take the Victreebelite: you will know what to do with it.",
   "trainer.megatrainers.megas_bonus.victreebel.lose": "My Victreebel is still standing. Come back stronger.",
   "category.megatrainers.megas": "Mega Evolutions",
-  "category.megatrainers.megas_za": "Mega Evolutions - Z-A"
+  "category.megatrainers.megas_za": "Mega Evolutions - Z-A",
+  "trainer.megatrainers.locked": "You need to have this Pokémon in your party to challenge this trainer."
 }
