@@ -21,5 +21,10 @@
       "firstWinOnly": true
     }
   ],
-  "team": []
+  "team": [
+    "Aerodactyl @ Aerodactylite  \nAbility: Rock Head  \nEVs: 4 HP / 252 Atk / 252 Spe  \nJolly Nature  \n- Dragon Claw  \n- Earthquake  \n- Stealth Rock  \n- Stone Edge",
+    "Archeops @ Heavy-Duty Boots  \nAbility: Defeatist  \n- Dual Wingbeat  \n- Earthquake  \n- Knock Off  \n- U-turn",
+    "Omastar @ Power Herb  \nAbility: Weak Armor  \nEVs: 252 HP / 252 SpA  \nModest Nature  \nIVs: 0 Atk  \n- Hydro Pump  \n- Earth Power  \n- Meteor Beam  \n- Shell Smash",
+    "Cradily @ Leftovers  \nAbility: Storm Drain  \nEVs: 248 HP / 8 Atk / 252 SpD  \nCareful Nature  \n- Earthquake  \n- Power Whip  \n- Recover  \n- Mirror Coat"
+  ]
 }
