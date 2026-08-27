@@ -1,6 +1,7 @@
 {
   "name": "trainer.megatrainers.megas.absol.name",
   "battle": {
+    "format": "doubles",
     "level": 75,
     "difficulty": 4,
     "gimmicks": [
