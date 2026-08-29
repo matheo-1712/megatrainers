@@ -15,6 +15,16 @@
     "win": "trainer.megatrainers.megas.aggron.win",
     "lose": "trainer.megatrainers.megas.aggron.lose"
   },
+  "requires": {
+    "party": [
+      {
+        "pokemon": "aggron",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "message": "trainer.megatrainers.locked"
+  },
   "rewards": [
     {
       "item": "mega_showdown:aggronite",

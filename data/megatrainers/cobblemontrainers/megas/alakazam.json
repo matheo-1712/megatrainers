@@ -1,6 +1,7 @@
 {
   "name": "trainer.megatrainers.megas.alakazam.name",
   "battle": {
+    "format": "doubles",
     "level": 75,
     "difficulty": 4,
     "gimmicks": [
@@ -14,6 +15,16 @@
     "win": "trainer.megatrainers.megas.alakazam.win",
     "lose": "trainer.megatrainers.megas.alakazam.lose"
   },
+  "requires": {
+    "party": [
+      {
+        "pokemon": "alakazam",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "message": "trainer.megatrainers.locked"
+  },
   "rewards": [
     {
       "item": "mega_showdown:alakazite",
@@ -21,5 +32,10 @@
       "firstWinOnly": true
     }
   ],
-  "team": []
+  "team": [
+    "Alakazam @ Alakazite  \nAbility: Synchronize  \nEVs: 4 HP / 252 SpA / 252 Spe  \nTimid Nature  \nIVs: 0 Atk  \n- Calm Mind  \n- Expanding Force  \n- Shadow Ball  \n- Focus Blast",
+    "Indeedee (M) @ Terrain Extender  \nAbility: Psychic Surge  \nEVs: 252 HP / 4 Atk / 252 Spe  \nJolly Nature  \n- Ally Switch  \n- Helping Hand  \n- Fake Out  \n- Encore",
+    "Hawlucha @ Psychic Seed  \nAbility: Unburden  \nEVs: 4 HP / 252 Atk / 252 Spe  \nAdamant Nature  \n- Acrobatics  \n- Close Combat  \n- Swords Dance  \n- U-turn",
+    "Hatterene (F) @ Leftovers  \nAbility: Healer  \nEVs: 252 HP / 252 SpA / 4 SpD  \nModest Nature  \nIVs: 0 Atk  \n- Expanding Force  \n- Mystical Fire  \n- Shadow Ball  \n- Protect"
+  ]
 }
