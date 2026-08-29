@@ -14,6 +14,16 @@
     "win": "trainer.megatrainers.megas.altaria.win",
     "lose": "trainer.megatrainers.megas.altaria.lose"
   },
+  "requires": {
+    "party": [
+      {
+        "pokemon": "altaria",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "message": "trainer.megatrainers.locked"
+  },
   "rewards": [
     {
       "item": "mega_showdown:altarianite",
@@ -21,5 +31,10 @@
       "firstWinOnly": true
     }
   ],
-  "team": []
+  "team": [
+    "Grimmsnarl (M) @ Light Clay  \nAbility: Prankster  \nEVs: 252 HP / 4 Def / 252 SpD  \nCalm Nature  \nIVs: 0 Atk  \n- Protect  \n- Light Screen  \n- Parting Shot  \n- Taunt",
+    "Altaria @ Altarianite  \nAbility: Natural Cure  \nEVs: 252 HP / 252 SpA / 4 SpD  \nModest Nature  \nIVs: 0 Atk  \n- Hyper Voice  \n- Draco Meteor  \n- Heal Bell  \n- Roost",
+    "Kommo-o @ Leftovers  \nAbility: Overcoat  \nEVs: 4 HP / 252 Atk / 252 Spe  \nJolly Nature  \n- Close Combat  \n- Earthquake  \n- Dragon Tail  \n- Outrage",
+    "Corviknight @ Heavy-Duty Boots  \nAbility: Pressure  \nEVs: 248 HP / 8 Atk / 252 SpD  \nCareful Nature  \n- Iron Defense  \n- U-turn  \n- Heavy Slam  \n- Roost"
+  ]
 }
